@@ -73,7 +73,9 @@ POST : /courses/
 }
 {
   "courseId": 4,
+  
   "courseName": "Full Stack Web Development",
+  
   "description": "The course is designed for every person from beginner",
   "courseType": "Live",
   "duration": "8 Months",
