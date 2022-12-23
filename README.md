@@ -64,7 +64,7 @@ POST : /courses/
 
 **Response**
 {
-  "courseId": 2,
+  -"courseId": 2,
   "courseName": "Java Backend Development",
   "description": "The course is designed for every person from beginner",
   "courseType": "Live",
